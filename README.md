@@ -36,7 +36,7 @@ To set up and run the project, follow these steps:
 
 ### Clone the repository:
 
-git clone https://github.com/yasmineroukas/medal-prediction.git
+git clone https://github.com/yasmineroukas/NextMedalPredictor.git
 cd medal-prediction
 
 ### Install dependencies:
